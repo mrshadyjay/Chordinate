@@ -4,7 +4,7 @@ creative block and try different chord progressions — built as one of my final
 projects at Birmingham City University.
 
 
-## ⬇️ Download
+##  Download
 1. Download the APK to your Android phone
 2. Go to **Settings → Security → Enable "Install unknown apps"**
 3. Open the file and tap **Install**
